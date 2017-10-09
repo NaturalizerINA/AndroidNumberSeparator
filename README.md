@@ -16,7 +16,7 @@ allprojects {
 }
 ```
 
-Then, in your module Gradle file (usually the app/build.gradle), add the dependencies for the Android Number Separator
+Then, in your module Gradle file (usually the app/build.gradle), add the dependencies for the Simple Number Separator
 
 ```
 compile 'com.github.NaturalizerINA:AndroidNumberSeparator:1.0.0'
