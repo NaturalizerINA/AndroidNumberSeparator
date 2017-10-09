@@ -45,7 +45,7 @@ Separator.getInstance().doSeparate(get_number_value, Locale.getDefault());
 ```
 
 ## Image Demo:
-![Alt text](https://github.com/NaturalizerINA/AndroidNumberSeparator/blob/master/demo_image_scale.jpg "Demo Image")
+![Alt text](https://github.com/NaturalizerINA/AndroidNumberSeparator/blob/master/demo_image_scale_sc.jpg "Demo Image")
 
 ## My Reference
 Thanks to <3 JAVA <3 library 
