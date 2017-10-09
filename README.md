@@ -44,7 +44,7 @@ Example for dynamicaly symbol:
 Separator.getInstance().doSeparate(get_number_value, Locale.getDefault());
 ```
 
-## Image Demo:
+## Image Demo
 ![Alt text](https://github.com/NaturalizerINA/AndroidNumberSeparator/blob/master/demo_image_sc.jpg "Demo Image")
 
 ## My Reference
