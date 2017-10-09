@@ -1,5 +1,5 @@
 # Simple Number Separator
-The Simple Number Separator is the lightweight library for separate number with coma in android or dot or dynamically.
+The Simple Number Separator is the lightweight library for separate number with coma in android or dot or dynamically by your locale device.
 
 ## Getting Started
 Make sure your internet connection was on
@@ -37,7 +37,7 @@ String get_number_value="1000";
 Separator.getInstance().doSeparate(get_number_value, Locale.GERMANY);
 ```
 
-or you can dynamically set the separator symbol by your device locale
+or you can dynamically set the separator symbol by your locale device
 
 Example for dynamicaly symbol:
 ```
