@@ -44,6 +44,13 @@ Example for dynamicaly symbol:
 Separator.getInstance().doSeparate(get_number_value, Locale.getDefault());
 ```
 
+Example for Decimal Number value:
+```
+String get_decimal_number="1000.65"; //Always using dot for insert the decimal number
+Separator.getInstance().doSeparate(get_decimal_number, Locale.getDefault());
+```
+
+
 ## Image Demo
 ![Alt text](https://github.com/NaturalizerINA/AndroidNumberSeparator/blob/master/demo_image_sc.jpg "Demo Image")
 
