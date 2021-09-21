@@ -24,9 +24,10 @@ public class Separator {
 
         String formatedValue ="";
 
-        String pattern = "#,##0.###";
+        String pattern = "#,###,###,##0.00";
 
         DecimalFormat decimalFormat = (DecimalFormat) NumberFormat.getNumberInstance(locale);
+
 
         decimalFormat.applyPattern(pattern);
         try {

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidNumberSeparator.iml" filepath="$PROJECT_DIR$/AndroidNumberSeparator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/separator/separator.iml" filepath="$PROJECT_DIR$/separator/separator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidNumberSeparator.iml" filepath="$PROJECT_DIR$/.idea/AndroidNumberSeparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/separator/AndroidNumberSeparator.separator.iml" filepath="$PROJECT_DIR$/.idea/modules/separator/AndroidNumberSeparator.separator.iml" />
     </modules>
   </component>
 </project>
