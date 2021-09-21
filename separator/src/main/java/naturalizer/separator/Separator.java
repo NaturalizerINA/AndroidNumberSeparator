@@ -27,7 +27,8 @@ public class Separator {
         String pattern = "#,###,###,##0.00";
 
         DecimalFormat decimalFormat = (DecimalFormat) NumberFormat.getNumberInstance(locale);
-
+        decimalFormat.setMinimumFractionDigits(0);
+        decimalFormat.setMaximumFractionDigits(0);
 
         decimalFormat.applyPattern(pattern);
         try {
