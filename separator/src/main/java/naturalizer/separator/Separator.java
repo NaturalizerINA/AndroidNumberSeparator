@@ -24,7 +24,7 @@ public class Separator {
 
         String formatedValue ="";
 
-        String pattern = "#,###,###,##0.00";
+        String pattern = "#,###,###,##0";
 
         DecimalFormat decimalFormat = (DecimalFormat) NumberFormat.getNumberInstance(locale);
         decimalFormat.setMinimumFractionDigits(0);
